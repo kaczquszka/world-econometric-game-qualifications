@@ -1,3 +1,4 @@
+https://www.gesis.org/missy/files/documents/EU-SILC/Codebook_EU-SILC-2013-cross-sec.pdf
 Based on the EU-SILC 2013 (Personal Data) codebook, here are the translations for the requested columns.
 
 Note: The suffix "G" indicates Gross income (before taxes), and "N" indicates Net income (after taxes).
