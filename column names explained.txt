@@ -1,0 +1,207 @@
+Based on the EU-SILC 2013 (Personal Data) codebook, here are the translations for the requested columns.
+
+Note: The suffix "G" indicates Gross income (before taxes), and "N" indicates Net income (after taxes).
+
+PB: Personal Basic Data
+
+PB010: Year of the survey
+
+PB020: Country
+
+PB030: Personal ID
+
+PB040: Personal cross-sectional weight
+
+PB060: Personal cross-sectional weight for selected respondent
+
+PB100: Quarter of the personal interview
+
+PB110: Year of the personal interview
+
+PB120: Minutes to complete the personal questionnaire
+
+PB130: Quarter of birth
+
+PB140: Year of birth
+
+PB150: Sex
+
+PB190: Marital status
+
+PB200: Consensual union
+
+PB220A: Citizenship 1
+
+PE: Personal Education
+
+PE010: Current education activity
+
+PE020: ISCED level currently attended
+
+PE040: Highest ISCED level attained
+
+PL: Personal Labour
+
+PL031: Self-defined current economic status
+
+PL035: Worked at least one hour during the previous week
+
+PL015: Person has ever worked
+
+PL020: Actively looking for a job
+
+PL025: Available for work
+
+PL040: Status in employment
+
+PL051: Occupation (ISCO-08 (COM))
+
+PL060: Number of hours usually worked per week in main job
+
+PL100: Total number of hours usually worked in second, third, etc. jobs
+
+PL111: NACE Rev.2 (Industry of main job)
+
+PL120: Reason for working less than 30 hours
+
+PL130: Number of persons working at the local unit
+
+PL140: Type of contract
+
+PL150: Managerial position
+
+PL160: Change of job since last year
+
+PL170: Reason for change
+
+PL180: Most recent change in the individual's activity status
+
+PL190: When began first regular job
+
+PH: Personal Health
+
+PH010: General health
+
+PH020: Suffer from a chronic (long-standing) illness or condition
+
+PH030: Limitation in activities because of health problems
+
+PH040: Unmet need for medical examination or treatment
+
+PH050: Main reason for unmet need for medical examination or treatment
+
+PH060: Unmet need for dental examination or treatment
+
+PH070: Main reason for unmet need for dental examination or treatment
+
+PY: Personal Income
+
+PY020N: Non-Cash employee income (net)
+
+PY035N: Contributions to individual private pension plans (net)
+
+PY010G: Employee cash or near cash income (gross)
+
+PY020G: Non-Cash employee income (gross)
+
+PY021G: Company car (gross)
+
+PY030G: Employer's social insurance contribution (gross)
+
+PY031G: Optional employer social insurance contributions (gross)
+
+PY035G: Contributions to individual private pension plans (gross)
+
+PY050G: Cash benefits or losses from self-employment (gross)
+
+PY080G: Pension from individual private plans (gross)
+
+PY090G: Unemployment benefits (gross)
+
+PY100G: Old-age benefits (gross)
+
+PY110G: Survivor' benefit (gross)
+
+PY120G: Sickness benefits (gross)
+
+PY130G: Disability benefits (gross)
+
+PY140G: Education-related allowances (gross)
+
+PY200G: Gross monthly earnings for employees
+
+PD: Material Deprivation
+
+PD020: Replace worn-out clothes by some new (not second-hand) ones
+
+PD030: Two pairs of properly fitting shoes (including a pair of all-weather shoes)
+
+PD050: Get-together with friends/family (relatives) for a drink/meal at least once a month
+
+PD060: Regularly participate in a leisure activity
+
+PD070: Spend a small amount of money each week on yourself
+
+PD080: Internet connection for personal use at home
+
+PD090: Regular use of public transport
+
+PW: Personal Well-being (2013 Module)
+
+PW010: Overall life satisfaction
+
+PW020: Meaning of life
+
+PW030: Satisfaction with financial situation
+
+PW040: Satisfaction with accommodation
+
+PW050: Being very nervous
+
+PW060: Feeling down in the dumps
+
+PW070: Feeling calm and peaceful
+
+PW080: Feeling downhearted or depressed
+
+PW090: Being happy
+
+PW100: Job satisfaction
+
+PW110: Satisfaction with commuting time
+
+PW120: Satisfaction with time use
+
+PW130: Trust in the police
+
+PW140: Trust in the legal system
+
+PW150: Trust in the political system
+
+PW160: Satisfaction with personal relationships
+
+PW170: Personal matters (anyone to discuss with)
+
+PW180: Help from others
+
+PW190: Trust in others
+
+PW200: Satisfaction with recreational or green areas
+
+PW210: Satisfaction with living environment
+
+PW220: Physical security
+
+PX: Calculated / Auxiliary Variables
+
+PX010: Exchange rate
+
+PX020: Age at the end of the income reference period
+
+PX030: Household ID
+
+PX040: Selected respondent status
+
+PX050: Activity status
+
+PX200: Not a standard 2013 variable. (Note: You may be referring to PL200 "Number of years spent in paid work" or PY200G "Gross monthly earnings").
